@@ -1,11 +1,10 @@
 ## Broken link website crawler (Python)
 
 This is a small crawler that:
-
 - Starts from a URL
 - Traverses internal pages (BFS)
 - Checks links found on each page
-- Writes a CSV report of **broken links**, including HTTP status/exception and an **error HTML excerpt**
+- Writes a CSV report of **broken links**, including HTTP status code/exception and an **error HTML excerpt**
 
 ## Setup
 
